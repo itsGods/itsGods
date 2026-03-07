@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Habib 👋
 
-<!--
-**itsGods/itsGods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vibecoder building creative web projects and modern portfolio experiences.
 
-Here are some ideas to get you started:
+🚀 Portfolio  
+https://thehabib.qzz.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 GitHub  
+https://github.com/itsGods
+
+---
+
+## ⚡ Tech Stack
+HTML • CSS • JavaScript • Firebase • Netlify
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=itsGods&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com?user=itsGods&theme=tokyonight)
+
+---
+
+## 🌍 Connect
+- Portfolio: https://thehabib.qzz.io
+- GitHub: https://github.com/itsGods
