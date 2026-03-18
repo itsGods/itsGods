@@ -3,7 +3,7 @@
 Vibecoder building creative web projects and modern portfolio experiences.
 
 🚀 Portfolio  
-https://thehabib.qzz.io
+https://tghabib.com
 
 💻 GitHub  
 https://github.com/itsGods
